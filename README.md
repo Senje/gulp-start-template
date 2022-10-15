@@ -1,6 +1,6 @@
 # gulp-start-template
 
-Required packages<br>
+<h3>Required packages</h3>
 <b>browser-sync</b> //For autoreload<br>
 <b>del</b> // For clean after compilation<br>
 <b>gulp</b> // Gulp<br>
