@@ -1,7 +1,7 @@
 # gulp-start-template
 
 <h3>Required packages</h3>
-<b>browser-sync</b> //For autoreload<br>
+<b>browser-sync</b> // Local server <br>
 <b>del</b> // For clean after compilation<br>
 <b>gulp</b> // Gulp<br>
 <b>gulp-autoprefixer</b> //For auto-prefix in css<br>
